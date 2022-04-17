@@ -1,2 +1,2 @@
 # ChatBotShellshock
-A chat bot packed with features for Shell Shockesr
+A chat bot packed with features for Shell Shockers
